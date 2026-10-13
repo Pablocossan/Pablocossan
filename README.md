@@ -31,7 +31,7 @@ Estudante de programação interessado no desenvolvimento de soluções tecnoló
 ### AquaMind ( Projeto destaque )
 
 <p align="center">
-  <img src="images/aquamind-principal.png" width="240" alt="Logo do AquaMind" />
+  <img src="images/aquamind-principal.png" width="540" alt="Logo do AquaMind" />
 </p>
 
 AquaMind — Monitoramento inteligente de água
