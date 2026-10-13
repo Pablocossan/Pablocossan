@@ -1,6 +1,6 @@
 # Pablo Cossan 
 
-Olá, tenho 17 anos e sou um estudante de programação interessado por qualquer ramo da tecnologia, busco continuar sempre desenvolvendo meus conhecimentos na área.
+Olá, tenho 17 anos e sou um estudante de programação interessado por qualquer ramo da tecnologia, e busco continuar sempre desenvolvendo meus conhecimentos na área.
 
 Atualmente, estou aprimorando minhas habilidades em **[ADS]**, com foco em construir projetos e melhorar meus conhecimentos em desenvolvimento de software.
 
