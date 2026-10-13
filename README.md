@@ -37,7 +37,7 @@ Monitoramento e conectividade: Blynk · Wi-Fi
 ### AquaMind ( Projeto destaque )
 
 <p align="center">
-  <img src="images/aquamind-principal.png" width="540" alt="Logo do AquaMind" />
+  <img src="images/aquamind-principal.png" width="540" height="200" alt="Logo do AquaMind" />
 </p>
 
 AquaMind — Monitoramento inteligente de água
