@@ -56,7 +56,7 @@ Tecnologias: C++ · ESP32 · Arduino IDE · HC-SR04 · Blynk · Wi-Fi
 
 <p align="center">
   <img src="images/aquamind-prototipo.png" width="47%" alt="Protótipo físico do AquaMind" />
-  <img src="images/aquamind-interface.png" width="47%" alt="Interface de monitoramento do AquaMind" />
+  <img src="images/aquamind-blynk.png" width="47%" alt="Interface de monitoramento do AquaMind" />
 </p>
 
 <p align="center">
