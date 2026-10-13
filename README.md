@@ -55,7 +55,7 @@ Proposta de baixo custo e possibilidade de adaptação a diferentes reservatóri
 Tecnologias: C++ · ESP32 · Arduino IDE · HC-SR04 · Blynk · Wi-Fi
 
 <p align="center">
-  <img src="images/aquamind-prototipo.png" width="47%" height="240" alt="Protótipo físico do AquaMind" />
+  <img src="images/aquamind-prototype.png" width="47%" height="240" alt="Protótipo físico do AquaMind" />
   <img src="images/aquamind-blynk.png" width="47%"  alt="Interface de monitoramento do AquaMind" />
 </p>
 
