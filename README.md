@@ -12,7 +12,7 @@ Estudante de programação interessado no desenvolvimento de soluções tecnoló
 - Intercambista do 3°DPPM (Portugal).
 - Estudando [Análise e Desenvolvimento de Software].
 - Desenvolvendo projetos para aplicar meus conhecimentos.
-- Foco: [Engenharia de Software] e [CyberSecurity].
+- Foco futuro: [Engenharia de Software] e [CyberSecurity].
 - Buscando evoluir continuamente como desenvolvedor.
 - Aberto a oportunidades de emprego.
 
