@@ -28,11 +28,42 @@ Estudante de programação interessado no desenvolvimento de soluções tecnoló
 
 ## Projetos
 
-Em breve, esta seção reunirá projetos desenvolvidos durante minha jornada de aprendizado.
+### AquaMind ( Projeto destaque )
 
-## Contato
+<p align="center">
+  <img src="images/aquamind-principal.png" width="240" alt="Logo do AquaMind" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/pablocossan/) · [E-mail](mailto:pablocossan@gmail.com)
+AquaMind — Monitoramento inteligente de água
+
+Projeto de IoT desenvolvido para auxiliar escolas no monitoramento do nível de água em reservatórios, contribuindo para uma gestão hídrica mais eficiente.
+
+O MVP utiliza um ESP32 e um sensor ultrassônico para medir a distância até a superfície da água. Os dados são processados pelo microcontrolador e enviados via Wi-Fi ao Blynk, permitindo acompanhar o nível do reservatório remotamente.
+
+Principais funcionalidades
+
+Monitoramento do nível de água.
+
+Visualização remota pelo Blynk.
+
+Alertas para níveis críticos.
+
+Lógica para identificar possíveis vazamentos.
+
+Proposta de baixo custo e possibilidade de adaptação a diferentes reservatórios.
+
+Tecnologias: C++ · ESP32 · Arduino IDE · HC-SR04 · Blynk · Wi-Fi
+
+<p align="center">
+  <img src="images/aquamind-prototipo.png" width="47%" alt="Protótipo físico do AquaMind" />
+  <img src="images/aquamind-interface.png" width="47%" alt="Interface de monitoramento do AquaMind" />
+</p>
+
+<p align="center">
+  <sub>Protótipo físico e interface demonstrativa do projeto.</sub>
+</p>
+
+[Repositório](https://github.com/olivindogabriel7-cpu/aquamind) 
 
 ---
 
