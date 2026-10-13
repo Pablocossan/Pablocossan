@@ -46,19 +46,15 @@ Projeto de IoT desenvolvido para auxiliar escolas no monitoramento do nível de 
 
 O MVP utiliza um ESP32 e um sensor ultrassônico para medir a distância até a superfície da água. Os dados são processados pelo microcontrolador e enviados via Wi-Fi ao Blynk, permitindo acompanhar o nível do reservatório remotamente.
 
-Principais funcionalidades
+#### Principais funcionalidades
 
-Monitoramento do nível de água.
+- Monitoramento do nível de água.
+- Visualização remota pelo Blynk.
+- Alertas para níveis críticos.
+- Lógica para identificar possíveis vazamentos.
+- Proposta de baixo custo e possibilidade de adaptação a diferentes reservatórios.
 
-Visualização remota pelo Blynk.
-
-Alertas para níveis críticos.
-
-Lógica para identificar possíveis vazamentos.
-
-Proposta de baixo custo e possibilidade de adaptação a diferentes reservatórios.
-
-Tecnologias: C++ · ESP32 · Arduino IDE · HC-SR04 · Blynk · Wi-Fi
+#### Tecnologias: C++ · ESP32 · Arduino IDE · HC-SR04 · Blynk · Wi-Fi
 
 <p align="center">
   <img src="images/aquamind-prototype.png" width="47%"  alt="Protótipo físico do AquaMind" />
