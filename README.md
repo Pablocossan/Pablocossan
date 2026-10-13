@@ -1,16 +1,33 @@
-## Hi there 👋
+# [Pablo Cossan ]
 
-<!--
-**Pablocossan/Pablocossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, tenho 17 anos e sou um estudante de programação interessado por qualquer ramo da tecnologia, busco continuar sempre desenvolvendo meus conhecimentos na área.
 
-Here are some ideas to get you started:
+Atualmente, estou aprimorando minhas habilidades em **[ADS]**, com foco em construir projetos e melhorar meus conhecimentos em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Brasileiro e Píauiense.
+- Intercambista do 3°DPPM (Portugal).
+- Estudando [Análise e Desenvolvimento de Software].
+- Desenvolvendo projetos para aplicar meus conhecimentos.
+- Foco: [Engenharia de Software] e [CyberSecurity].
+- Buscando evoluir continuamente como desenvolvedor.
+- Aberto a oportunidades de emprego.
+
+## Tecnologias
+
+**Linguagens:** [Python, JavaScript, C...]
+
+**Ferramentas:** [Git, GitHub, VS Code...]
+
+## Projetos
+
+Em breve, esta seção reunirá projetos desenvolvidos durante minha jornada de aprendizado.
+
+## Contato
+
+[LinkedIn](SEU_LINK_DO_LINKEDIN) · [E-mail](mailto:SEU_EMAIL)
+
+---
+
+*Em constante aprendizado.*
