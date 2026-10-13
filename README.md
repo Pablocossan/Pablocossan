@@ -1,4 +1,4 @@
-# [Pablo Cossan ]
+# Pablo Cossan 
 
 Olá, tenho 17 anos e sou um estudante de programação interessado por qualquer ramo da tecnologia, busco continuar sempre desenvolvendo meus conhecimentos na área.
 
@@ -16,9 +16,11 @@ Atualmente, estou aprimorando minhas habilidades em **[ADS]**, com foco em const
 
 ## Tecnologias
 
-**Linguagens:** [Python, JavaScript, C...]
-
-**Ferramentas:** [Git, GitHub, VS Code...]
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VS Code">
+</p>
 
 ## Projetos
 
