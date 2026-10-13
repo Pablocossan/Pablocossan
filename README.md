@@ -20,6 +20,8 @@ Atualmente, estou aprimorando minhas habilidades em **[ADS]**, com foco em const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/icons/c/c-original.svg" width="35" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icon/arduino/arduino-original.svg" width="35" alt="Arduino">
 </p>
 
 ## Projetos
