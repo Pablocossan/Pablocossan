@@ -40,7 +40,7 @@ Monitoramento e conectividade: Blynk · Wi-Fi
   <img src="images/aquamind-principal.png" width="540" alt="Logo do AquaMind" />
 </p>
 
-AquaMind — Monitoramento inteligente de água
+AquaMind — Monitoramento inteligente de reservatórios de água.
 
 Projeto de IoT desenvolvido para auxiliar escolas no monitoramento do nível de água em reservatórios, contribuindo para uma gestão hídrica mais eficiente.
 
