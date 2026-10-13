@@ -30,7 +30,7 @@ Em breve, esta seção reunirá projetos desenvolvidos durante minha jornada de 
 
 ## Contato
 
-[LinkedIn](www.linkedin.com/in/pablocossan) · [E-mail](mailto:pablocossan@gmail.com)
+[LinkedIn](www.linkedin.com/in/pablocossan/) · [E-mail](mailto:pablocossan@gmail.com)
 
 ---
 
