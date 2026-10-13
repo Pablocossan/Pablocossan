@@ -2,7 +2,7 @@
 
 *IoT | Tecnologia e inovação*
 
-Estudante de programação interessado no desenvolvimento de soluções tecnológicas para problemas reais. Minha trajetória inclui a participação no programa Do Piauí pro Mundo, que me proporcionou uma experiência de intercâmbio em Portugal e o desenvolvimento de projetos de inovação.
+Estudante de programação interessado no desenvolvimento de soluções tecnológicas para problemas reais. Minha trajetória inclui a participação no programa Do Piauí pro Mundo do governo do Piauí, que me proporcionou uma experiência de intercâmbio em Portugal e o desenvolvimento de projetos de inovação.
 
 [LinkedIn](https://www.linkedin.com/in/pablocossan/) · [E-mail](mailto:pablocossan@gmail.com)
 
