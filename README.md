@@ -1,8 +1,10 @@
-# Pablo Cossan 
+# PabloCossan
 
-Olá, tenho 17 anos e sou um estudante de programação interessado por qualquer ramo da tecnologia, e busco continuar sempre desenvolvendo meus conhecimentos na área.
+*IoT | Tecnologia e inovação*
 
-Atualmente, estou aprimorando minhas habilidades em **[ADS]**, com foco em construir projetos e melhorar meus conhecimentos em desenvolvimento de software.
+Estudante de programação interessado no desenvolvimento de soluções tecnológicas para problemas reais. Minha trajetória inclui a participação no programa Do Piauí pro Mundo, que me proporcionou uma experiência de intercâmbio em Portugal e o desenvolvimento de projetos de inovação.
+
+[LinkedIn](https://www.linkedin.com/in/pablocossan/) · [E-mail](mailto:pablocossan@gmail.com)
 
 ## Sobre mim
 
