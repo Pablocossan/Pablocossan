@@ -10,7 +10,7 @@ Estudante de programação interessado no desenvolvimento de soluções tecnoló
 
 - Brasileiro e Píauiense.
 - Intercambista do 3°DPPM (Portugal).
-- Estudando [Análise e Desenvolvimento de Software].
+- Estudando [Análise e Desenvolvimento de Sistemas].
 - Desenvolvendo projetos para aplicar meus conhecimentos.
 - Foco futuro: [Engenharia de Software] e [CyberSecurity].
 - Buscando evoluir continuamente como desenvolvedor.
